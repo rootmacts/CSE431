@@ -1,19 +1,19 @@
 Unlisted youtube video:
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICCTA2023
 
 Paper title:
 Image proccessing & information extraction using OCR
 
-Paper presentation (anyone can view without login):
+Paper presentation (anyone can view without login): https://www.overleaf.com/read/znkbwzjgrcyb
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): Tue, 03 Jan 2023 18:00:02 GMT
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 19
 
-Conference Name:
+Conference Name: 2023 9th International Conference on Computer Technology Applications
 
-Conference URL:
+Conference URL: http://www.iccta.net/index.html
 
 Group Number:
 2
